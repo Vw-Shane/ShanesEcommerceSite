@@ -1,0 +1,26 @@
+{
+  "name": "ShanesEcommerceSite",
+  "version": "1.0.0",
+  "description": "This will be a demo of an ecommerce site for freelancing  There will be admin side and user side",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vw-Shane/ShanesEcommerceSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vw-Shane/ShanesEcommerceSite/issues"
+  },
+  "homepage": "https://github.com/Vw-Shane/ShanesEcommerceSite#readme"
+}
